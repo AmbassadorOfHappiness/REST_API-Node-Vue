@@ -1,0 +1,34 @@
+{
+  "name": "rest_api-node-vue",
+  "version": "1.0.0",
+  "description": "rest api fullstack",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AmbassadorOfHappiness/REST_API-Node-Vue.git"
+  },
+  "keywords": [
+    "js",
+    "rest",
+    "api",
+    "vue",
+    "node.js"
+  ],
+  "author": "DMITRIJ",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AmbassadorOfHappiness/REST_API-Node-Vue/issues"
+  },
+  "homepage": "https://github.com/AmbassadorOfHappiness/REST_API-Node-Vue#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
